@@ -6,7 +6,7 @@ JSON dataset of 247+ countries with visa policies (visa-free, e-visa, visa on ar
 
 ## Usage
 Fetch via:  
-`https://raw.githubusercontent.com/[yourusername]/visa-policies-with-flags/main/countries_with_visa_and_flags.json`
+`https://raw.githubusercontent.com/geetpurwar/visa-policies-with-flags/main/countries_with_visa_and_flags.json`
 
 ## License
 MIT License - see `LICENSE` file
